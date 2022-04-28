@@ -24,7 +24,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-![图片描述](图片链接)
+![图片描述](https://github.com/lemon1093642612/lemon1093642612.github.io/blob/main/lydia.jpg)
 ![证件照](/lydia.jpg)
 ```
 
