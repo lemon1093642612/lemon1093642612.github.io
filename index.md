@@ -23,13 +23,12 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://github.com/lemon1093642612/lemon1093642612.github.io/blob/main/lydia.jpg) and ![Image](/lydia.jpg)
+[Link](url) and ![Image](src)
 
 
 ```
-[Link](url) and ![Image](src)
-![图片描述](https://github.com/lemon1093642612/lemon1093642612.github.io/blob/main/lydia.jpg)
-![证件照](/lydia.jpg)
+
+
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
